@@ -5,7 +5,7 @@
 - `CoreUI Vue.js`를 활용하여 해당 결과를 화면에 구현했고 `Firebase`를 통해 배포했습니다.
 
 # Results Preview
-![image](https://user-images.githubusercontent.com/58713684/83595430-f90bc200-a59c-11ea-8944-542b6cd02bf0.png)
+![image](https://user-images.githubusercontent.com/58713684/83595920-49cfea80-a59e-11ea-9bda-cc88b6583cc4.png)
 
 # Page
 https://zipdoc-project.firebaseapp.com/
