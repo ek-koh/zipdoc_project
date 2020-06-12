@@ -14,14 +14,14 @@ export default [
       },
       {
         _name: 'CSidebarNavItem',
-        name: '지역',
-        to: '/insight/region',
+        name: '소비자',
+        to: '/insight/consumer',
         icon: 'cil-lightbulb'
       },
       {
         _name: 'CSidebarNavItem',
-        name: '소비자',
-        to: '/insight/consumer',
+        name: '지역',
+        to: '/insight/region',
         icon: 'cil-lightbulb'
       },
       {
